@@ -1,0 +1,8 @@
+.idea
+*.iml
+out
+gen
+
+.pyc
+client_secret.json
+.python-version
